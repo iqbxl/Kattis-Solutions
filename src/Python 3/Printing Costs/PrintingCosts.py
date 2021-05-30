@@ -1,0 +1,106 @@
+import sys
+
+myDict = {}
+myDict[' '] = 0
+myDict['&'] = 24
+myDict[','] = 7
+myDict['2'] = 22
+myDict['8'] = 23
+myDict['>'] = 10
+myDict['D'] = 26
+myDict['J'] = 18
+myDict['P'] = 23
+myDict['V'] = 19
+myDict['\\'] = 10
+myDict['b'] = 25
+myDict['h'] = 21
+myDict['n'] = 18
+myDict['t'] = 17
+myDict['z'] = 19
+myDict['!'] = 9
+myDict['\''] = 3
+myDict['-'] = 7
+myDict['3'] = 23
+myDict['9'] = 26
+myDict['?'] = 15
+myDict['E'] = 26
+myDict['K'] = 21
+myDict['Q'] = 31
+myDict['W'] = 26
+myDict[']'] = 18
+myDict['c'] = 17
+myDict['i'] = 15
+myDict['o'] = 20
+myDict['u'] = 17
+myDict['{'] = 18
+myDict['\"'] = 6
+myDict['('] = 12
+myDict['.'] = 4
+myDict['4'] = 21
+myDict[':'] = 8
+myDict['@'] = 32
+myDict['F'] = 20
+myDict['L'] = 16
+myDict['R'] = 28
+myDict['X'] = 18
+myDict['^'] = 7
+myDict['d'] = 25
+myDict['j'] = 20
+myDict['p'] = 25
+myDict['v'] = 13
+myDict['|'] = 12
+myDict['#'] = 24
+myDict[')'] = 12
+myDict['/'] = 10
+myDict['5'] = 27
+myDict[';'] = 11
+myDict['A'] = 24
+myDict['G'] = 25
+myDict['M'] = 28
+myDict['S'] = 25
+myDict['Y'] = 14
+myDict['_'] = 8
+myDict['e'] = 23
+myDict['k'] = 21
+myDict['q'] = 25
+myDict['w'] = 19
+myDict['}'] = 18
+myDict['$'] = 29
+myDict['*'] = 17
+myDict['0'] = 22
+myDict['6'] = 26
+myDict['<'] = 10
+myDict['B'] = 29
+myDict['H'] = 25
+myDict['N'] = 25
+myDict['T'] = 16
+myDict['Z'] = 22
+myDict['`'] = 3
+myDict['f'] = 18
+myDict['l'] = 16
+myDict['r'] = 13
+myDict['x'] = 13
+myDict['~'] = 9
+myDict['%'] = 22
+myDict['+'] = 13
+myDict['1'] = 19
+myDict['7'] = 16
+myDict['='] = 14
+myDict['C'] = 20
+myDict['I'] = 18
+myDict['O'] = 26
+myDict['U'] = 23
+myDict['['] = 18
+myDict['a'] = 23
+myDict['g'] = 30
+myDict['m'] = 22
+myDict['s'] = 21
+myDict['y'] = 24
+
+for line in sys.stdin:
+    toner = 0
+    for c in line:
+        if c == '\n':
+            break
+        toner += myDict[c]
+    print(toner)
