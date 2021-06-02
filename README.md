@@ -99,7 +99,7 @@ Problem | Languages
 [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/False%20Sense%20of%20Security)
 [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Fifty%20Shades%20of%20Pink)
 [Filip](https://open.kattis.com/problems/filip) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Filip), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Filip)
-[Final Exam 2](https://open.kattis.com/problems/finalexam2) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Final%20Exam%202)
+[Final Exam 2](https://open.kattis.com/problems/finalexam2) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Final%20Exam%202), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Final%20Exam%202)
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/FizzBuzz), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/FizzBuzz)
 [Flexible Spaces](https://open.kattis.com/problems/flexible) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Flexible%20Spaces)
 [Flying Safely](https://open.kattis.com/problems/flyingsafely) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Flying%20Safely)
