@@ -277,6 +277,7 @@ Problem | Languages
 [Some Sum](https://open.kattis.com/problems/somesum) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Some%20Sum)
 [Sort](https://open.kattis.com/problems/sort) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Sort)
 [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Sort%20of%20Sorting)
+[Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Sort%20Two%20Numbers), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Sort%20Two%20Numbers), [JavaScript](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript/Sort%20Two%20Numbers)
 [Soylent](https://open.kattis.com/problems/soylent) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Soylent)
 [Spavanac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Spavanac), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Spavanac)
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Speed%20Limit)
