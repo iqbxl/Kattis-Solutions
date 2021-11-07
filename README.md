@@ -79,6 +79,7 @@ Problem | Languages
 [Dice Game](https://open.kattis.com/problems/dicegame) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Dice%20Game)
 [Different Distances](https://open.kattis.com/problems/differentdistances) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Different%20Distances)
 [Digit Product](https://open.kattis.com/problems/sifferprodukt) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Digit%20Product)
+[Digit Swap](https://open.kattis.com/problems/digitswap) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Digit%20Swap), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Digit%20Swap), [JavaScript](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript/Digit%20Swap)
 [Driving Range](https://open.kattis.com/problems/drivingrange) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Driving%20Range)
 [DRM Messages](https://open.kattis.com/problems/drmmessages) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/DRM%20Messages)
 [Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Drunk%20Vigenere)
