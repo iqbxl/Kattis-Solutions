@@ -319,6 +319,7 @@ Problem | Languages
 [Transit Woes](https://open.kattis.com/problems/transitwoes) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Transit%20Woes), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Transit%20Woes)
 [Treasure Hunt](https://open.kattis.com/problems/treasurehunt) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Treasure%20Hunt)
 [Tri](https://open.kattis.com/problems/tri) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Tri)
+[Triangle Area](https://open.kattis.com/problems/triarea) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Triangle%20Area), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Triangle%20Area), [JavaScript](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript/Triangle%20Area)
 [Trik](https://open.kattis.com/problems/trik) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Trik), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Trik), [JavaScript](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript/Trik)
 [Triple Texting](https://open.kattis.com/problems/tripletexting) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Triple%20Texting)
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Un-bear-able%20Zoo)
