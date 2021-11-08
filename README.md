@@ -273,6 +273,7 @@ Problem | Languages
 [Sjecista](https://open.kattis.com/problems/sjecista) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Sjecista)
 [Skener](https://open.kattis.com/problems/skener) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Skener)
 [Skocimis](https://open.kattis.com/problems/skocimis) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Skocimis)
+[SMIL](https://open.kattis.com/problems/smil) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/SMIL), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/SMIL), [JavaScript](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript/SMIL)
 [Social running](https://open.kattis.com/problems/socialrunning) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Social%20running), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Social%20running)
 [Soda Slurper](https://open.kattis.com/problems/sodaslurper) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Soda%20Slurper)
 [Soft Passwords](https://open.kattis.com/problems/softpasswords) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Soft%20Passwords)
