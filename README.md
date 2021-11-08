@@ -323,6 +323,7 @@ Problem | Languages
 [Triangle Area](https://open.kattis.com/problems/triarea) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Triangle%20Area), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Triangle%20Area), [JavaScript](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript/Triangle%20Area)
 [Trik](https://open.kattis.com/problems/trik) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Trik), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Trik), [JavaScript](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript/Trik)
 [Triple Texting](https://open.kattis.com/problems/tripletexting) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Triple%20Texting)
+[Two-sum](https://open.kattis.com/problems/twosum) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Two-sum), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Two-sum), [JavaScript](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript/Two-sum)
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Un-bear-able%20Zoo)
 [Union-Find](https://open.kattis.com/problems/unionfind) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Union-Find)
 [Unlock Pattern](https://open.kattis.com/problems/unlockpattern) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Unlock%20Pattern)
