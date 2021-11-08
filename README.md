@@ -193,6 +193,7 @@ Problem | Languages
 [Moscow Dream](https://open.kattis.com/problems/moscowdream) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Moscow%20Dream)
 [Mosquito Multiplication](https://open.kattis.com/problems/mosquito) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Mosquito%20Multiplication)
 [Musical Scales](https://open.kattis.com/problems/musicalscales) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Musical%20Scales)
+[N-sum](https://open.kattis.com/problems/nsum) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/N-sum), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/N-sum), [Javascript](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript/N-sum)
 [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Nasty%20Hacks), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Nasty%20Hacks)
 [No Duplicates](https://open.kattis.com/problems/nodup) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/No%20Duplicates), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/No%20Duplicates)
 [NOP](https://open.kattis.com/problems/nop) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/NOP), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/NOP)
