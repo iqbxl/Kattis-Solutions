@@ -115,6 +115,7 @@ Problem | Languages
 [Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Galactic%20Collegiate%20Programming%20Contest)
 [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Gerrymandering)
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Goat%20Rope)
+[Grading](https://open.kattis.com/problems/grading) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Grading), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Grading), [JavaScript](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript/Grading)
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Grass%20Seed%20Inc), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Grass%20Seed%20Inc)
 [Greedy Polygons](https://open.kattis.com/problems/greedypolygons) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Greedy%20Polygons)
 [Greetings! 2](https://open.kattis.com/problems/greetings2) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Greetings!%202), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Greetings!%202)
