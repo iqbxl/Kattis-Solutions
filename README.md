@@ -146,6 +146,7 @@ Problem | Languages
 [Imperial Measurement](https://open.kattis.com/problems/measurement) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Imperial%20Measurement)
 [Inflation](https://open.kattis.com/problems/inflation) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Inflation)
 [Inquiry I](https://open.kattis.com/problems/inquiryi) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Inquiry%20I)
+[Interval Scheduling](https://open.kattis.com/problems/intervalscheduling) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Interval%20Scheduling), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Interval%20Scheduling), [JavaScript](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript/Interval%20Scheduling)
 [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/IsItHalloween.com), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/IsItHalloween.com)
 [Islands 3](https://open.kattis.com/problems/islands3) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Islands%203), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Islands%203)
 [Jabuke](https://open.kattis.com/problems/jabuke) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Jabuke), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Jabuke)
