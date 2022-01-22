@@ -1,5 +1,6 @@
 # Kattis Solutions
 Solutions to [Kattis Archives](https://open.kattis.com/problems?order=problem_difficulty):
+* [C++](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/C%2B%2B)
 * [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java)
 * [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203)
 * [JavaScript (Node.js)](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/JavaScript)
@@ -23,6 +24,7 @@ Problem | Languages
 [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Another%20Brick%20in%20the%20Wall), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Another%20Brick%20in%20the%20Wall)
 [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Apaxiaaaaaaaaaaaans!)
 [Arbitrage?](https://open.kattis.com/problems/arbitrage) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Arbitrage)
+[Arithmetic Functions](https://open.kattis.com/problems/arithmeticfunctions) | [C++](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/C%2B%2B/Arithmetic%20Functions)
 [Arrangement](https://open.kattis.com/problems/upprodun) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Arrangement)
 [ASCII Addition](https://open.kattis.com/problems/asciiaddition) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/ASCII%20Addition)
 [Astrological Sign](https://open.kattis.com/problems/astrologicalsign) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Astrological%20Sign)
@@ -179,6 +181,7 @@ Problem | Languages
 [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Left%20Beehind)
 [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/License%20to%20Launch), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/License%20to%20Launch)
 [Line Them Up](https://open.kattis.com/problems/lineup) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Line%20Them%20Up)
+[Logic Functions](https://open.kattis.com/problems/logicfunctions) | [C++](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/C%2B%2B/Logic%20Functions)
 [Loo Rolls](https://open.kattis.com/problems/loorolls) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Loo%20Rolls)
 [Lost Lineup](https://open.kattis.com/problems/lostlineup) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Lost%20Lineup)
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Luhn's%20Checksum%20Algorithm)
