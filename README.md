@@ -72,6 +72,7 @@ Problem | Languages
 [Cookie Selection](https://open.kattis.com/problems/cookieselection) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Cookie%20Selection)
 [Cooking Water](https://open.kattis.com/problems/cookingwater) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Cooking%20Water)
 [Costume Contest](https://open.kattis.com/problems/costumecontest) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Costume%20Contest), [Python 3](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Python%203/Costume%20Contest)
+[Count the Vowels](https://open.kattis.com/problems/countthevowels) | [C++](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/C%2B%2B/Count%20the%20Vowels)
 [Counting Clauses](https://open.kattis.com/problems/countingclauses) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Counting%20Clauses)
 [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Cryptographer's%20Conundrum)
 [Cudoviste](https://open.kattis.com/problems/cudoviste) | [Java](https://github.com/iqbxl/Kattis-Solutions/tree/main/src/Java/Cudoviste)
